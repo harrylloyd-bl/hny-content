@@ -1,5 +1,6 @@
+# would normally include data but actually want it uploaded to binder for this one
 # data
-/data/*/
+# /data/*/
 
 # nb checkpoints
 .ipynb_checkpoints/
